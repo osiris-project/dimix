@@ -8,9 +8,11 @@ assignees: ''
 ---
 
 **More detailed User Story**
-
+As a [user]
+I want [detailed functionality]
+So that [detailed benefit]
 
 **Acceptance Criteria**
-
-
-**Definition of Done**
+Given [start condition]
+When [User or program action]
+Then [outcome]
