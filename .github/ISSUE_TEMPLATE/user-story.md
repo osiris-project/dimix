@@ -1,14 +1,14 @@
 ---
 name: User Story
-about: A basic example of features / user stories
-title: As a [user description] I want [functionality] so that [benefit]
+about: A template of features / user stories
+title: As a [role] I want [functionality] so that [benefit]
 labels: enhancement
 assignees: ''
 
 ---
 
 **More detailed User Story**
-As a [user]
+As a [role description]
 I want [detailed functionality]
 So that [detailed benefit]
 
